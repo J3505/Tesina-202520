@@ -1,0 +1,39 @@
+# Archivos de salida y temporales
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex
+*.xdv
+*.pdfsync
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.acn
+*.acr
+
+# Archivos intermedios de BibTeX/Biber
+*.bcf
+*.run.xml
+
+# Archivos generados por glossaries y otros paquetes
+*.slg
+*.syg
+
+# Archivos temporales de compresión
+*.tmp
+
+# Salida final (opcional, si no quieres versionar el PDF)
+*.pdf
