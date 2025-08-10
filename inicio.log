@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.7)  8 AUG 2025 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.7)  9 AUG 2025 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -951,12 +951,27 @@ Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
+ (part/portada.tex
+<figuras/Senati_peru.png, id=104, 1204.5pt x 325.215pt>
+File: figuras/Senati_peru.png Graphic file (type png)
+<use figuras/Senati_peru.png>
+Package pdftex.def Info: figuras/Senati_peru.png  used on input line 10.
+(pdftex.def)             Requested size: 234.8775pt x 63.41418pt.
 
 
-[1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Del
-l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
+[1
 
-] (inicio.toc
+{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Dell/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./figuras/Senati_p
+eru.png>])
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.36 	\maketitle
+                 %Genera la porta APA [1] (inicio.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
@@ -997,16 +1012,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [2]
 
-[3]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-0.
- (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+[3] (part/cap-i.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
+.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<Figuras/11-08-08-2025-11.png, id=145, 452.4403pt x 340.27126pt>
+<Figuras/11-08-08-2025-11.png, id=152, 452.4403pt x 340.27126pt>
 File: Figuras/11-08-08-2025-11.png Graphic file (type png)
 <use Figuras/11-08-08-2025-11.png>
-Package pdftex.def Info: Figuras/11-08-08-2025-11.png  used on input line 47.
+Package pdftex.def Info: Figuras/11-08-08-2025-11.png  used on input line 15.
 (pdftex.def)             Requested size: 328.82707pt x 247.3004pt.
 
 
@@ -1015,7 +1031,7 @@ Package pdftex.def Info: Figuras/11-08-08-2025-11.png  used on input line 47.
 
 [5]
 
-[6] AED endfloat: Processing end Figures and Tables
+[6]) (part/cap-ii.tex) AED endfloat: Processing end Figures and Tables
 
 [7]
 
@@ -1031,20 +1047,20 @@ Package rerunfilecheck Info: File `inicio.out' has not changed.
 (rerunfilecheck)             Checksum: 10D2B157CAAB28414D53313560B04BE6;5214.
  ) 
 Here is how much of TeX's memory you used:
- 25836 strings out of 468148
- 482177 string characters out of 5431546
+ 25883 strings out of 468148
+ 483507 string characters out of 5431546
  968290 words of memory out of 5000000
- 53965 multiletter control sequences out of 15000+600000
- 663961 words of font info for 66 fonts, out of 8000000 for 9000
+ 53999 multiletter control sequences out of 15000+600000
+ 675971 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,105p,499b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb
 ><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb
 ><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
 C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on inicio.pdf (8 pages, 404240 bytes).
+Output written on inicio.pdf (9 pages, 425284 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
