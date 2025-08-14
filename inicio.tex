@@ -2,10 +2,13 @@
 % ====== Paquetes de idioma y codificación ======
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+% Cambiar "Cuadro" a "Tabla"
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
 
 % ====== Bibliografía APA ======
 \usepackage{apacite} % Sistema de citas de apa7
 \bibliographystyle{apacite}
+
 
 %\addbibresource{referencias.bib} % Archivo de referencias
 
@@ -18,7 +21,7 @@
 \usepackage{hyperref} % Enlaces clicables en el índice
 \usepackage{lipsum}   % Para texto de ejemplo
 \usepackage{enumitem} % Para personalizar numeraciones en listas
-
+\usepackage{booktabs}
 
 
 % Numeración y niveles del índice
@@ -36,7 +39,7 @@
 	% ============================
 	% PORTADA \begin{PERSONALIZADA (Inicia)
 	% ============================
-%	\input{part/portada}
+	\input{part/portada}
 	% ============================
 	% PORTADA APA ESTÁNDAR         (Finaliza)
 	% ============================
@@ -52,7 +55,7 @@
 	\input{part/cap-i}
 	
 	% CAPÍTULO II
-	\input{part/cap-ii}
+%	\input{part/cap-ii}
 		
 	% --- Capítulo III  ---
 %	\input{part/cap-iii}
@@ -68,7 +71,7 @@
 	\bibliography{referencias}
 	
 	\section{Anexos}
-	\addcontentsline{toc}{section}{Anexos}
+%	\addcontentsline{toc}{section}{Anexos}
 	
 	
 \end{document}

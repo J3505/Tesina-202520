@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.7)  11 AUG 2025 17:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.7)  14 AUG 2025 08:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -776,9 +776,9 @@ Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
 LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
-on input line 5.
+on input line 6.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
- on input line 5.
+ on input line 6.
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
@@ -796,7 +796,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count342
 )
-LaTeX Info: Redefining \BBA on input line 8.
+LaTeX Info: Redefining \BBA on input line 10.
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
 \UL@box=\box68
@@ -850,7 +850,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 
 
 Class apa7 Warning: Deprecated: see documentation for \authorsaffiliations on i
-nput line 30.
+nput line 33.
 
 \c@NumberOfAffiliations=\count352
 (inicio.aux
@@ -861,24 +861,24 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `inicio.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -940,7 +940,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 38.
  (inicio.out) (inicio.out)
 \@outlinefile=\write7
 \openout7 = `inicio.out'.
@@ -953,19 +953,34 @@ File: APA7spanish.txt 2021/08/08 v1.00 apa7 configuration for Spanish
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
 \c@maskedRefs=\count359
  (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/apacite\spanish.apc
 File: spanish.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 138.
 LaTeX Info: Redefining \BHBI on input line 139.
-)
+) (part/portada.tex
+<figuras/Senati_peru.png, id=77, 1204.5pt x 325.215pt>
+File: figuras/Senati_peru.png Graphic file (type png)
+<use figuras/Senati_peru.png>
+Package pdftex.def Info: figuras/Senati_peru.png  used on input line 10.
+(pdftex.def)             Requested size: 234.8775pt x 63.41418pt.
 
-[1{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Del
-l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
-] (inicio.toc
+[1
+
+{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Dell/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc} <./figuras/Senati_p
+eru.png>])
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 	\maketitle
+                 %Genera la porta APA [1] (inicio.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
@@ -998,59 +1013,67 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 4.
-
-
-[2])
+)
 \tf@toc=\write8
 \openout8 = `inicio.toc'.
 
 
 
-[3] (part/cap-i.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
-.
+[2] (part/cap-i.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+6.
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<Figuras/11-08-08-2025-11.png, id=203, 452.4403pt x 340.27126pt>
+<Figuras/11-08-08-2025-11.png, id=113, 452.4403pt x 340.27126pt>
 File: Figuras/11-08-08-2025-11.png Graphic file (type png)
 <use Figuras/11-08-08-2025-11.png>
-Package pdftex.def Info: Figuras/11-08-08-2025-11.png  used on input line 18.
-(pdftex.def)             Requested size: 375.80544pt x 282.63275pt.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-0.
+Package pdftex.def Info: Figuras/11-08-08-2025-11.png  used on input line 32.
+(pdftex.def)             Requested size: 281.85587pt x 211.97845pt.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
+5.
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
-[4{C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <
+[3{C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <
 ./Figuras/11-08-08-2025-11.png>]
 
+[4]
+
 [5]
+Underfull \hbox (badness 2020) in paragraph at lines 104--106
+[]\T1/lmr/m/n/12 Motivación: Ob-te-ner un tí-tu-lo
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 107--109
+[]\T1/lmr/m/n/12 Motivación: Es-pe-cia-li-zar-se, as-
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 107--109
+\T1/lmr/m/n/12 cen-tes con ex-pe-rien-cia, red de
+ []
+
+
 
 [6]
-<figuras/27-11-08-2025-13.png, id=224, 832.61063pt x 283.81032pt>
+<figuras/27-11-08-2025-13.png, id=144, 832.61063pt x 283.81032pt>
 File: figuras/27-11-08-2025-13.png Graphic file (type png)
 <use figuras/27-11-08-2025-13.png>
-Package pdftex.def Info: figuras/27-11-08-2025-13.png  used on input line 100.
+Package pdftex.def Info: figuras/27-11-08-2025-13.png  used on input line 119.
 (pdftex.def)             Requested size: 469.75502pt x 160.1236pt.
 
 
-[7]) (part/cap-ii.tex
+[7]) (inicio.bbl
 
-[8 <./figuras/27-11-08-2025-13.png>]
+[8 <./figuras/27-11-08-2025-13.png>])
+AED endfloat: Processing end Figures and Tables
 
-[9]
-
-[10]
-
-[11]) (inicio.bbl
-
-[12]) AED endfloat: Processing end Figures and Tables
-
-[13
+[9
 
 ] (inicio.aux
 LaTeX Info: Redefining \. on input line 12.
@@ -1061,24 +1084,24 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
 Package rerunfilecheck Info: File `inicio.out' has not changed.
-(rerunfilecheck)             Checksum: 009FF88C52E4824006693D18EDBF33D2;6753.
+(rerunfilecheck)             Checksum: 4BB2C7B8ABFDA9BB53E742242455F0C9;2902.
  ) 
 Here is how much of TeX's memory you used:
- 26298 strings out of 468148
- 490570 string characters out of 5431546
- 976268 words of memory out of 5000000
- 54387 multiletter control sequences out of 15000+600000
- 664279 words of font info for 67 fonts, out of 8000000 for 9000
+ 26305 strings out of 468148
+ 490916 string characters out of 5431546
+ 973172 words of memory out of 5000000
+ 54405 multiletter control sequences out of 15000+600000
+ 676289 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,105p,573b,766s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,105p,499b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb
 ><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb
 ><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
 C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C
 :/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on inicio.pdf (13 pages, 472210 bytes).
+Output written on inicio.pdf (10 pages, 471115 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 319 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 209 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
